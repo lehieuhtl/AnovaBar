@@ -1,0 +1,5 @@
+library(tidyverse)
+library(rstatix)
+
+# Import dataset
+sat_data = read_csv('SAT.csv')
