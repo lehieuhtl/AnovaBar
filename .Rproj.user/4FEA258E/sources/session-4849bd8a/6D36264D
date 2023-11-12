@@ -3,9 +3,9 @@
     "path": "~/Desktop/Fall23/AdvTopCog/RLab4/RLab4.R",
     "project_path": "RLab4.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1953219020",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1699558192694.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "28"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699569327,
+    "lastKnownWriteTime": 1699764663,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699764589257,
+    "last_content_update": 1699764663943,
     "read_only": false,
     "read_only_alternatives": []
 }
