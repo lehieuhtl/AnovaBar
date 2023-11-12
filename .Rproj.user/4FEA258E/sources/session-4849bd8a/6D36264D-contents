@@ -19,3 +19,9 @@ ggplot(summary_data, aes(x = state, y = mean_math, fill = state)) +
   geom_errorbar(aes(ymin = mean_math - se_math, ymax = mean_math + se_math),
                 position = position_dodge(width = .9), width = .25) +
   labs(y = "Mean Math Scores", title = "Mean Math Scores by State")
+
+#Perform one way anova
+anova_result = anova_test(data = sat_data, dv = math, between = state)
+print(anova_result)
+
+
